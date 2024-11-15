@@ -23,7 +23,7 @@ app.post('/submit', (req, res) => {
   const { name, message } = req.body;
 
   if (!name || !message) {
-    return res.status(400).send('Name and message are required!');
+    return res.status(400).send('ใส่ข้อมูลไม่ครบ! กรุณาลองใหม่อีกครั้ง');
   }
 
   const entry = { name, message };
