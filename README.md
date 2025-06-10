@@ -1,3 +1,3 @@
-![Scorecard](https://api.securityscorecards.dev/projects/github.com/saveffer/LoyKrathong/badge)
+![Scorecard](https://api.securityscorecards.dev/projects/github.com/saveffer1/LoyKrathong/badge)
 
 # LoyKrathong
